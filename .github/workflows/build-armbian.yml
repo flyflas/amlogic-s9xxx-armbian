@@ -224,7 +224,7 @@ on:
           - yourname
 
 env:
-  TZ: Asia/shanghai
+  TZ: Asia/Shanghai
   ROOTFS_SCRIPT: compile-kernel/tools/script/armbian_rootfs.sh
 
 jobs:
